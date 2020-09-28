@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DotheChores</string>
+    <string name="title_home">Home</string>
+    <string name="title_manageChores">Manage Chores</string>
+    <string name="title_myStats">My Stats</string>
+    <string name="title_activity_createnewtask">CreatenewtaskActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
